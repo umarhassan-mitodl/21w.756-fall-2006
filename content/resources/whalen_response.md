@@ -4,6 +4,8 @@ description: Example of student work from the course.
 file: /courses/21w-756-writing-and-reading-poems-fall-2006/482cb99e2eb4ec04ec249250bfdd2d36_whalen_response.pdf
 file_size: 13006
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

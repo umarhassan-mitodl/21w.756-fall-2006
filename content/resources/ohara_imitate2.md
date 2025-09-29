@@ -4,6 +4,8 @@ description: Example of student work from the course.
 file: /courses/21w-756-writing-and-reading-poems-fall-2006/2b63b8183ad70454514eddf0c70059b6_ohara_imitate2.pdf
 file_size: 16338
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
