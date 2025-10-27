@@ -4,8 +4,6 @@ description: ''
 file: /courses/21w-756-writing-and-reading-poems-fall-2006/423a65202e5841dc7e830e8b922cfd43_c_imitate.pdf
 file_size: 9892
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

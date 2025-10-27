@@ -3,8 +3,6 @@ content_type: page
 description: This section includes course description, readings, grading criteria,
   attendance, conferences, plagiarism and a calendar covering week's topics and key
   dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Syllabus
@@ -206,7 +204,7 @@ Guest Imitations
 
 Imitation due
 
-Poetry @ MIT: Poetry reading by Alice Notley[](http://www.poets.org/poet.php/prmPID/767)
+Poetry @ MIT: Poetry reading by Alice Notley{{% resource_link "16c8a20e-93de-4c79-a01a-72550e145fe3" "" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +234,7 @@ Schuyler Imitations
 
 Imitation due
 
-Poetry @ MIT: Poetry reading by Clayton Eshleman[](http://www.poets.org/poet.php/prmPID/263)
+Poetry @ MIT: Poetry reading by Clayton Eshleman{{% resource_link "3cf2b1c5-3eef-42ea-aacb-67e4fa206fd3" "" %}}
 
 
 {{< tdclose >}}
